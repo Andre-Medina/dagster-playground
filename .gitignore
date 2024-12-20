@@ -20,3 +20,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+
+# Dagster
+.dagster/**/*.*
+!.dagster/dagster.yaml
